@@ -1,0 +1,10 @@
+﻿Trunk/Library
+Trunk/Logs
+Trunk/.idea
+Trunk/Temp
+Trunk/Assembly-CSharp.csproj
+Trunk/Assembly-CSharp-Editor.csproj
+*.sln
+Trunk/obj
+Trunk/Assets/Plugins/Editor/JetBrains
+Trunk/Assets/Plugins/Editor/JetBrains.meta
